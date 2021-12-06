@@ -2,10 +2,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>JSP - Hello Galaxy</title>
+    <title>JSP - Hello Delhiiiiiiiiiiiiiiii</title>
 </head>
 <body>
-<h1><%= "Hello MilkyWay!" %>
+<h1><%= "Hello Najafgarhhhhhhhhhh!" %>
 </h1>
 <br/>
 <a href="hello-servlet">Hello Servlet</a>
