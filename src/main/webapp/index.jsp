@@ -5,7 +5,7 @@
     <title>JSP - T-GRADLE WEBAPP</title>
 </head>
 <body>
-<h1><%= "Hello guys, this webwage is auto build by jenkins and GRDALE, INDIAAAAA" %>
+<h1><%= "Hello guys, this modified webwage is auto build by jenkins and GRDALE, INDIAAAAA" %>
 </h1>
 <br/>
 <a href="hello-servlet">Hello Servlet</a>
